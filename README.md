@@ -37,7 +37,7 @@ Technology and tools used
  * Google colab as IDE
  * Python flask for http server
  * HTML/CSS for UI
-    * Heroku for deployement
+ * Heroku for deployement
 
 
 
