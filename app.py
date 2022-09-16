@@ -6,12 +6,12 @@ import pandas as pd
 
 app = Flask(__name__)
 
-model_path = '/home/user/PROJECTS/Big_mart_Sales_Prediction/models/model2.pkl'
-model = joblib.load((model_path))
+# model_path = '/home/user/PROJECTS/Big_mart_Sales_Prediction/models/model2.pkl'
+model = joblib.load(('model.pkl'))
 # booster = xgb.Booster()
 # booster.load_model('model.bin')
-scaler_path = '/home/user/PROJECTS/Big_mart_Sales_Prediction/models/scaled.pkl' 
-scale = joblib.load((scaler_path))
+# scaler_path = '/home/user/PROJECTS/Big_mart_Sales_Prediction/models/scaled.pkl' 
+scale = joblib.load(('scaled.pkl'))
 
 @app.route("/")
 def index():
