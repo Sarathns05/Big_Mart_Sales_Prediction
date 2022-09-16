@@ -40,6 +40,30 @@ Technology and tools used
  * Heroku for deployement
 
 
+Overview
+----------
+
+STEP 1: Data Preparation and model building
+
+In this step, explore the data, do the required pre-processing and tried various Machine Learning models
+
+STEP 2: Building the app using Flask and HTML
+
+Here, fetch the best-performing model from step 1 and build a web app using Flask and HTML.
+
+STEP 3: Deploying the app using Heroku
+
+In the end deploy the working app through Heroku for the world to use our product.
+  
+
+
+Model Deployment
+--------------------
+
+* The web application is built using python library -> Flask and Web Programming languages -> HTML, CSS
+* The entire application is finally deployed on Heroku by adding - Procfile (informs Heroku that which application is to be run first), Requirements         (notifies Heroku about the libraries that needs to be installed before deploying or running our application)
+* See the deployed application https://big-mart-sales-pred.herokuapp.com/
+
 
 
 
