@@ -29,14 +29,14 @@ The data-set is also based on hypotheses of store level and product level. Where
 
 
 Technology and tools used
-------------------------------
-
-    * Python
-    * Numpy and Pandas for data cleaning
-    * Sklearn for model building
-    * Google colab as IDE
-    * Python flask for http server
-    * HTML/CSS for UI
+------------------------------------------------------------------------------------
+ 
+ * Python
+ * Numpy and Pandas for data cleaning
+ * Sklearn for model building
+ * Google colab as IDE
+ * Python flask for http server
+ * HTML/CSS for UI
     * Heroku for deployement
 
 
