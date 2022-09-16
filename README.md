@@ -67,7 +67,7 @@ Model Deployment
 ![1663308507582-01](https://user-images.githubusercontent.com/108679625/190569160-0c9c6871-34b9-488f-98ed-3418a062f555.jpeg)
 
 
-![IMG_20220916_113453](https://user-images.githubusercontent.com/108679625/190569284-9c6b9605-cf2a-41c5-bdd8-8e7ddfdf987b.png)
+![IMG_20220916_113738](https://user-images.githubusercontent.com/108679625/190569495-d83e3c4d-aba9-4b51-8ffc-22037b34d9cf.png)
 
 
 
