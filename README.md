@@ -1,9 +1,6 @@
 # Sales Prediction for Big Mart Outlets
------------------------------------------------
 
-A end-end Machine Learning Project to learn Data Analytics and apply machine learning algorithms to predict the Salesfor Big Mart Outlets
-https://big-mart-sales-pred.herokuapp.com/
-
+An end-end Machine Learning Project to learn Data Analytics and apply machine learning algorithms to predict the Salesfor Big Mart Outlets
 
 
 Dataset Description
