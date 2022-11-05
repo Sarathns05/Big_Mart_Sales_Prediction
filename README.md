@@ -1,6 +1,6 @@
 # Sales Prediction for Big Mart Outlets
 
-An end-end Machine Learning Project to learn Data Analytics and apply machine learning algorithms to predict the Salesfor Big Mart Outlets
+An end-end Machine Learning Project to learn Data Analytics and apply machine learning algorithms to predict the Sales for Big Mart Outlets
 
 
 Dataset Description
