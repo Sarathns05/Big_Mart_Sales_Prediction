@@ -2,6 +2,9 @@
 
 An end-end Machine Learning Project to learn Data Analytics and apply machine learning algorithms to predict the Sales for Big Mart Outlets
 
+## Data Source
+- [Kaggle Big Mart Sales Dataset](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data)
+
 
 Dataset Description
 ------------------------------------------------------
