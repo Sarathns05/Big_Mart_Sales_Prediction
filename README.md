@@ -1,8 +1,6 @@
-# Sales Prediction for Big Mart Outlets
-
 ![1667666555936-01](https://user-images.githubusercontent.com/108679625/200131571-c314cabe-e037-47d3-95ab-7003e0cee4a7.jpeg)
 
-An end-end Machine Learning Project to learn Data Analytics and apply machine learning algorithms to predict the Sales for Big Mart Outlets
+### An end-end Machine Learning Project to learn Data Analytics and apply machine learning algorithms to predict the Sales for Big Mart Outlets
 
 ## Data Source
 - [Kaggle Big Mart Sales Dataset](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data)
