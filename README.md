@@ -41,7 +41,7 @@ Technology and tools used
  * Heroku for deployement
 
 
-Overview
+Methods
 ----------
 
 #### STEP 1: Data Preparation and model building
